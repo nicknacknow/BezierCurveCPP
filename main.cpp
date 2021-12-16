@@ -5,6 +5,7 @@ using namespace sf;
 
 // next : allow points to be added, moved and removed lol 
 // change test length, and also current_time in program
+// use vertex to keep a line behind the box to show travel ?
 
 int main() {
 	RenderWindow window(VideoMode(1200, 800), "BezierCurve");
